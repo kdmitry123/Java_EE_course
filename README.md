@@ -1,1 +1,1 @@
-# Java_EE_course
+# JD2

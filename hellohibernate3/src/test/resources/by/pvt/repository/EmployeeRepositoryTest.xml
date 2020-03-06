@@ -1,0 +1,13 @@
+<dataset>
+    <Department id="1" location="Minsk" name="Dep1"/>
+
+    <Employee id="101" employeeNumber="101" name="Ivanov" salary="100" department_id="1"/>
+    <Employee id="102" employeeNumber="101" name="Ivanov2" salary="1000" department_id="1"/>
+    <Employee id="103" employeeNumber="101" name="Ivanov3" salary="1050" department_id="1"/>
+
+
+    <EmployeeDetails id = "1" location="Minsk" office="Office1" employee_id = "101" />
+    <EmployeeDetails id = "2" location="Moskow" office="Office1" employee_id = "102" />
+    <EmployeeDetails id = "3" location="Minsk" office="Office2" employee_id = "103" />
+
+</dataset>
